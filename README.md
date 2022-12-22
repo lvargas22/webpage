@@ -12,5 +12,3 @@
 		<h1 style="color:blue">welcome</h1>
 	</body>
 </html>
-
- 
