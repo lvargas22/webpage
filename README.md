@@ -3,7 +3,6 @@
 <html lang="en">
 	<head>
 		<meta charset="utf8">
-		<title>css<title>
 	</head>
 	
 	<body>
